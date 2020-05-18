@@ -1,0 +1,51 @@
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.config
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Form1.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmAddDetails.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpandDetails.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpanded.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Properties.Resources.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\Software Company\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.config
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.pdb
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Form1.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmAddDetails.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpandDetails.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpanded.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Properties.Resources.resources
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\Git\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.config
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\bin\Debug\Journal Recorder.pdb
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Form1.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmAddDetails.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpandDetails.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.frmExpanded.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal_Recorder.Properties.Resources.resources
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe.manifest
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.application
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.exe
+C:\Users\mahmo\Desktop\MyOwnSoftware\WindowsForms\Journal Recorder\Journal Recorder\obj\Debug\Journal Recorder.pdb
